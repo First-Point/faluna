@@ -1,0 +1,25 @@
+{
+  "name": "Faluna",
+  "storeName": {
+    "android": "Faluna: Coffee Reading & Tarot"
+  },
+  "developer": {
+    "name": "First Point",
+    "legalName": "First Point Yazılım Limited Şirketi",
+    "url": "https://firstpoint.com.tr",
+    "wikidata": "Q141016074",
+    "github": "https://github.com/First-Point"
+  },
+  "platforms": ["android"],
+  "category": "Lifestyle",
+  "price": "free with Premium subscription and token packs",
+  "entertainmentOnly": true,
+  "stores": {
+    "googlePlay": "https://play.google.com/store/apps/details?id=app.faluna.fal.tarot.kahve_fali.card_reading.astro.horoscope.dream.zodiac.sign.fortune.qahwa.tasfir.falci"
+  },
+  "website": "https://faluna.app",
+  "privacyPolicy": "https://faluna.app/en/privacy",
+  "terms": "https://faluna.app/en/terms",
+  "support": "https://form.jotform.com/261402733310039",
+  "updated": "2026-09-07"
+}
